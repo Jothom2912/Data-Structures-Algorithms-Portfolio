@@ -1,7 +1,6 @@
 [submodule "GætEtTal(Alle)/GætEtTalMedBinarySearch"]
     path = GætEtTal(Alle)/GætEtTalMedBinarySearch
     url = https://github.com/Jothom2912/GuessTheNumberBinarySearch.git
-
-[submodule "GætEtTal(Alle)/OmvendtGætEtTal"]
-    path = GætEtTal(Alle)/OmvendtGætEtTal
-    url = https://github.com/Jothom2912/OmvendtGætEtTal.git
+[submodule "GætEtTal(Alle)/OmvendtG-tEtTal"]
+    path = GætEtTal(Alle)/OmvendtG-tEtTal
+    url = https://github.com/Jothom2912/OmvendtG-tEtTal.git
